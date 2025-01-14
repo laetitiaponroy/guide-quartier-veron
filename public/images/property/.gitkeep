@@ -1,0 +1,9 @@
+Copyguide-quartier-veron/
+├── public/
+│   └── images/
+│       └── property/
+│           ├── salon1.jpeg
+│           ├── salon2.jpeg
+│           ├── salle-de-bain.jpeg
+│           ├── entree.jpeg
+│           └── buanderie.jpeg
